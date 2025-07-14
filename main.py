@@ -2,7 +2,7 @@ import telebot
 import sqlite3
 import time
 
-BOT_TOKEN = '8192579751:AAFBXQrn8esKHDerfqzyxUMt76Dtdqm8Vuo'
+BOT_TOKEN = '8192579751:AAGQBSu8I7i8vNgv_W4Xnh_w2FYcApLP9cU'
 ADMIN_ID = 7489027229
 
 bot = telebot.TeleBot(BOT_TOKEN)
